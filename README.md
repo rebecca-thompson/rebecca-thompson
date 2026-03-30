@@ -4,5 +4,4 @@ I’m a full-stack software developer at The Guardian. In a previous life, I wor
 - 🔭 I’m currently working on: mostly Scala, React and Typescript applications
 - 🌱 I’m currently learning: to be a better frontend developer. Yikes! So many browsers 😵
 - 👯 I’m looking to collaborate on: improving diversity in tech. Technology is ubiquitous in our lives and it is vital it is created by as diverse a group as those who use it
-- 📫 How to reach me: [@al_becca](https://twitter.com/al_becca)
 - 😄 Pronouns: she/her
